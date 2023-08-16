@@ -1,4 +1,4 @@
 # laravel
-https://we.tl/t-J3O33b4RLj  (dashboard)
-https://we.tl/t-SNgse2xyE1 (example)
-https://we.tl/t-NaH4NzTNPB (gaurang)
+https://we.tl/t-6UCzbMQNLm (company)
+https://we.tl/t-YEtSMOC0PB (example)
+https://we.tl/t-W1dZn5PccZ (gaurang)
